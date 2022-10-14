@@ -1,0 +1,3 @@
+function modedark() {
+    darkmode.toggleDarkMode();
+  }
